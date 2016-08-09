@@ -1,0 +1,2 @@
+# gwlist2privoxy
+提取shocksocksX里的规则列表的被屏蔽的主机名，生成privoxy action文件，用于转发请求到ss-local
